@@ -1,4 +1,3 @@
-//Konstantoula Eleonora Zoi 2116182
 #include "utils.h"
 #include <stdio.h>
 #include <stdlib.h>
