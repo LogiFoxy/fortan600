@@ -1,4 +1,3 @@
-//Konstantoula Eleonora Zoi 2116182
 %{
     #include "tokens.h"
     #include "utils.h"
