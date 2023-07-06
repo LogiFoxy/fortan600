@@ -1,4 +1,3 @@
-//Konstantoula Eleonora Zoi 2116182
 #ifndef UTILS_H
 #define UTILS_H
 
