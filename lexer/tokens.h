@@ -1,4 +1,3 @@
-//Konstantoula Eleonora Zoi 
 //key words
 #define T_FUNCTION 1
 #define T_SUBROUTINE 2
